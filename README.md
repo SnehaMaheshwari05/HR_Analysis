@@ -12,11 +12,7 @@ The dashboard was built using the following tools and technologies:
 - 🗂 **File Formats** – `.pbix` for development and `.png` for sharing dashboard previews.
 
 ## Data Source
-The data comes from internal HR datasets and sample company records. It includes:
-
-- Employee demographics (age, education, job roles).  
-- Compensation details (salary brackets).  
-- Attrition details over years and by department/job role.
+This project uses a sample HR dataset.
 
 ## Features / Highlights
 - 👥 **Employee Overview** – Total employees, attrition count, attrition rate, average age, and average salary.  
@@ -26,8 +22,8 @@ The data comes from internal HR datasets and sample company records. It includes
 - 📈 **Attrition Trends by Years** – Tracks attrition over time to identify long-term patterns.  
 - 🎨 **Modern UI** – Clean, interactive, and visually appealing dashboard optimized for better HR insights.
 
-  
 ## Screenshot
+https://raw.githubusercontent.com/SnehaMaheshwari05/HR_Analysis/refs/heads/main/Snapshot%20of%20the%20Dashboard%20(2).png
 
 
 
